@@ -1,0 +1,30 @@
+{
+  "name": "discordbotstatus.js",
+  "description": "A Simple And Fast Package To Show Discord Bot Status In A Discord Channel !",
+  "version": "1.0.6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "discordjs",
+    "bot-status",
+    "discord-bot",
+    "bot-package"
+  ],
+  "author": "CRYSTAL HQ DEVELOPMENT",
+  "license": "ISC",
+    "repository": "CRYSTAL-HQ/discordbotstatus.js",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "cpu-stat": "^2.0.1",
+    "crystalcolour.ts": "^1.0.1",
+    "discord.js": "^13.12.0",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "node-fetch": "^3.2.6",
+    "os": "^0.1.2"
+  }
+}
